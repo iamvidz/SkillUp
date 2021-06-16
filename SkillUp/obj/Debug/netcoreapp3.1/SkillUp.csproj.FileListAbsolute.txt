@@ -1,0 +1,425 @@
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.StaticWebAssets.xml
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.exe
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.deps.json
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.runtimeconfig.json
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.runtimeconfig.dev.json
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.pdb
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.Views.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.Views.pdb
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.csprojAssemblyReference.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.AssemblyInfoInputs.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.AssemblyInfo.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorAssemblyInfo.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorAssemblyInfo.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.TagHelpers.input.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.TagHelpers.output.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorCoreGenerate.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorTargetAssemblyInfo.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorTargetAssemblyInfo.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.Views.pdb
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.csproj.CopyComplete
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\staticwebassets\SkillUp.StaticWebAssets.Manifest.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\staticwebassets\SkillUp.StaticWebAssets.xml
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.dll
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.pdb
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.genruntimeconfig.cache
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.csproj.CoreCompileInputs.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.MvcApplicationPartsAssemblyInfo.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.MvcApplicationPartsAssemblyInfo.cache
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\c#codes\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.StaticWebAssets.xml
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.exe
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.deps.json
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.runtimeconfig.json
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.runtimeconfig.dev.json
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.pdb
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.Views.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SkillUp.Views.pdb
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.csprojAssemblyReference.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.AssemblyInfoInputs.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.AssemblyInfo.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorAssemblyInfo.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorAssemblyInfo.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.TagHelpers.input.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.TagHelpers.output.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorCoreGenerate.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorTargetAssemblyInfo.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.RazorTargetAssemblyInfo.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.Views.pdb
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.csproj.CopyComplete
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\staticwebassets\SkillUp.StaticWebAssets.Manifest.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\staticwebassets\SkillUp.StaticWebAssets.xml
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.dll
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.pdb
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.genruntimeconfig.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.csproj.CoreCompileInputs.cache
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.MvcApplicationPartsAssemblyInfo.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\SkillUp.MvcApplicationPartsAssemblyInfo.cache
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\wddn version 1\SkillUp\SkillUp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Create.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Delete.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Details.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Edit.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Index.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Browse.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Enroll.cshtml.g.cs
+D:\wddn version 1\SkillUp\SkillUp\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Playlist.cshtml.g.cs

@@ -1,0 +1,105 @@
+﻿@model IEnumerable<SkillUp.EF.Course>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    
+        <h2 class="text-center display-4">
+            Course that you teach
+        </h2>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="card col-sm-3 col-xs-4 mr-auto">
+                    <div class="card-body">
+                        <div class="card-img">
+                            <a asp-action="Enroll" asp-route-id="@item.CourseId">
+                                <img src="@item.ImagePath" class="card-img-top" height="150" width="250" />
+                            </a>
+                        </div>
+                        <div class="card-header lead">@item.Title</div>
+                        <div class="card-body">
+
+                            <p>Revenue: @item.Revenue</p>
+                            <p>@item.Description</p>
+                            <p>
+                                <a asp-action="Edit" asp-route-id="@item.CourseId" class="btn btn-primary">Edit Course</a>
+                            </p>
+                            <p>
+                                <a asp-action="Delete" asp-route-id="@item.CourseId" class="btn btn-danger">Delete</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+</div>
+
+
+@*<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WistiaId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImagePath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Revenue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Teacher)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WistiaId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImagePath)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Revenue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teacher.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CourseId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CourseId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CourseId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>*@

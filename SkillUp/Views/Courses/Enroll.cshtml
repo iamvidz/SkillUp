@@ -1,0 +1,56 @@
+﻿@model SkillUp.EF.Course
+
+@{
+    ViewData["Title"] = "Enroll";
+}
+
+<h1>Enroll</h1>
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-offset-3">
+                <form action="@Url.Action("Payment","Courses")" method="post">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" name="courseId" value="@Model.CourseId" />
+                    <script src="https://checkout.stripe.com/checkout.js" class="stripe-button btn-outline-dark" 
+                            data-key="pk_test_51HpDCiHa22C4FyH0cjmDYVokiMKlEaPfd7WmgirD4UXtQeDFP8CeJ0pgeUX4wSlV50FN2ZRJU9HqIlKZCQWpdNKs00MvPV9CZb"
+                            data-amount="@(Model.Price * 100)"
+                            data-template-name="Stripe.com"
+                            data-description="Payment Gateway"
+                            data-image=""
+                            data-locale="auto">
+
+                    </script>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-7">
+            <h2>Description</h2>
+            @Model.Description
+        </div>
+        <div class="col-lg-5">
+            <h2>
+                Enrolled Students
+            </h2>
+            <div class="panel-heading">
+                Students
+            </div>
+            <div class="panel-body">
+                @Model.CourseStudents.Count 
+                <br />
+                @foreach(var item in Model.CourseStudents)
+                {
+                    <div class="col-xs-2">
+                        <img src="@item.Student.PicturePath" height="30" width="30" />
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

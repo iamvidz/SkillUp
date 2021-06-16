@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SkillUp.EF.Course>
+
+@{
+    ViewData["Title"] = "Browse";
+}
+
+
+
+
+    <div class="container">
+
+        <h2 class="display-4 text-center">
+            All Courses
+        </h2>
+
+        <div class="row">
+
+            @foreach (var item in Model)
+            {
+                <div class="card col-sm-3 col-xs-4 mr-sm-auto">
+                    <div class="card-body">
+                        <div class="card-img">
+                            
+                                <img src="@item.ImagePath" class="card-img-top" height="150" width="250" />
+                            
+                        </div>
+                        
+                        <div class="card-header lead">@item.Title</div>
+                        <div class="card-body">
+                            <p>Price: @item.Price</p>
+                            <p>@item.Description</p>
+                            <a asp-action="Enroll" asp-route-id="@item.CourseId" class="btn btn-success">
+                                Enroll
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
